@@ -1,3 +1,0 @@
-name shre
-address pun
-roll 3
